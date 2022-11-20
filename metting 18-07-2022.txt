@@ -1,0 +1,29 @@
+1. tampilkan token di home (sudah) -> hanya ketua kelompok yang tampil agar bertanggung jawab atas akun yang terdaftar dari kelompok tersebut
+2. yang bisa mengupload proposal ketua saja diambil dari session login (sudah)
+3. ketika pendaftaran memilih prodi (sudah)
+4. admin input data prodi (sudah)
+5. admin input data kaprodi -> digabung dengan Data Prodi (sudah) -> di hapus/diubah diambil dari tabel users
+6. data prodi diolah menjadi informasi jumlah proposal yang diajukan, diterima, ditolak berdasarkan prodi (sudah)
+7. informasi tentang pengajuan proposal (anggaran) perkelompok (sudah)
+8. yang memverifikasi proposal kaprodi sesuai dengan prodinya
+9. tampilkan user siapa yang memverifikasi proposal (sudah) ->di tombol detail
+10. tampilkan waktu proposal diverifikasi di users (sudah) ->di tombol detail
+11. cek kembali status perbaikan atau pengajuan proposal baru (sudah)
+
+12. ketika input pembimbing memilih prodi, hanya boleh membimbing prodi yang sama
+13. pembimbing yang memverifikasi
+14. sebelum dinilai pemasaran harus dinilai lulus tahap produksi atau tidak oleh pembimbing, jika lulus baru dinilai oleh pemasaran
+15. yang menilai produk yaitu quality control bukan pemasaran
+
+tambahan pribadi:
+1. kaprodi hanya bisa melihat data prodinya saja (sudah)
+2. pembimbing hanya bisa melihat data bimbingannya saja (sudah)
+
+tambahan baru:
+1. tambah kategori aktifitas ketika peserta mnginput logbook untuk menentukan analisa di evaluasi (sudah)
+
+Pertanyaan:
+1. Pada Tabel 7. Realisasi TEFA datanya didapat dari mana (kolom hasil produksi)?
+
+17 september 2022:
+1. tambahkan pilihan prodi ketika cetak laporan evaluasi, tulisan prodi pada laporan dibuat dinamis (sudah)
